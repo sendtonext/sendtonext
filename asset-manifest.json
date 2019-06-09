@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sendtonext/static/css/main.ce09204d.chunk.css",
+    "main.js": "/sendtonext/static/js/main.2c004f95.chunk.js",
+    "main.js.map": "/sendtonext/static/js/main.2c004f95.chunk.js.map",
+    "runtime~main.js": "/sendtonext/static/js/runtime~main.f41e3002.js",
+    "runtime~main.js.map": "/sendtonext/static/js/runtime~main.f41e3002.js.map",
+    "static/js/2.5ae47fe4.chunk.js": "/sendtonext/static/js/2.5ae47fe4.chunk.js",
+    "static/js/2.5ae47fe4.chunk.js.map": "/sendtonext/static/js/2.5ae47fe4.chunk.js.map",
+    "index.html": "/sendtonext/index.html",
+    "precache-manifest.1839ce31283ee678f9264d32bbc03cd3.js": "/sendtonext/precache-manifest.1839ce31283ee678f9264d32bbc03cd3.js",
+    "service-worker.js": "/sendtonext/service-worker.js",
+    "static/css/main.ce09204d.chunk.css.map": "/sendtonext/static/css/main.ce09204d.chunk.css.map",
+    "static/media/App.css": "/sendtonext/static/media/memo.8b1dab2b.jpg"
+  }
+}
